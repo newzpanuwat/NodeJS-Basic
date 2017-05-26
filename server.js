@@ -6,3 +6,5 @@ http.createServer(function(req,res){
 
 }).listen(8081,'127.0.0.1');
 
+console.log('Server running at localhost:8081');
+console.log('Application name : Testing Node JS');
