@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "nodejs for beginner",
+  "main": "StreamWriter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newzpanuwat/NodeJS-Basic.git"
+  },
+  "author": "Panuwat Boonrod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newzpanuwat/NodeJS-Basic/issues"
+  },
+  "homepage": "https://github.com/newzpanuwat/NodeJS-Basic#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
